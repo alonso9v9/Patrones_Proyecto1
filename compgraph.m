@@ -5,7 +5,6 @@
 ## Escuela de Ingeniería Electrónica
 ## Tecnológico de Costa Rica
 close all;
-1;
 
 ## Capas:
 l1a=fullyconnected();
